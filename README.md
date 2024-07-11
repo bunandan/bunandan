@@ -7,7 +7,7 @@ I knew the concepts like digital electronics , analog electronics, C programmmin
 I have done a project in my final year engineering ie IOT based garbage monitoring system.
 Anybody looking my profile please give me one opportunity to showcase my skills in your company.
 
-                           THANK YOU
+                                               THANKYOU
 
 
 
