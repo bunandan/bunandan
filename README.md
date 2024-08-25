@@ -1,12 +1,4 @@
-Hi there
-My name is Nandan BU I am from Bengaluru I have stuided BE in ECE from Adichunchanagiri institute of technology Chikkamagaluru I am 2023 passout.
-I currently looking for job in embedded system.
-I also completed PG diploma in Embedded system in Bengaluru this was a 9 month course.
-I worked on 8051 Microcontroller board and ARM board.
-I knew the concepts like digital electronics , analog electronics, C programmming, C++, Embedded C and data structures and algorithms. 
-I have done a project in my final year engineering ie IOT based garbage monitoring system.
-Anybody looking my profile please give me one opportunity to showcase my skills in your company.
-
+Hi there My name is Nandan BU I am from Bengaluru I have studied BE in ECE from Adichunchanagiri Institute of Technology Chikkamagaluru I am a 2023 passout. I am currently looking for a job in embedded systems. I also completed a PG diploma in Embedded Systems in Bengaluru this was a 9-month course. I worked on the 8051 Microcontroller board and ARM board. I knew concepts like digital electronics, analog electronics, C programming, C++, Embedded C, and data structures and algorithms. I did a project in my final year of engineering ie an IOT-based garbage monitoring system. Anybody looking at my profile please give me one opportunity to showcase my skills in your company.
                                                         THANKYOU
 
 
