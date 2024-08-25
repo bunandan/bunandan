@@ -26,11 +26,24 @@ int main()
     }
     printf("the factorial of %d  is %d",n,b);
 }*/
-#include<stdio.h>
+/*#include<stdio.h>
 int main()
 {
     int n,factorial,count;
     printf("enter the number\n ");
+    scanf("%d",&n);
+    for(factorial=1,count=1;count<=n;count++)
+    {
+        factorial=factorial*count;
+    }
+    printf("the factorial of %d is %d",n,factorial);
+    return 0;
+}*/
+#include<stdio.h>
+int main()
+{
+    int n,factorial,count;
+    printf("enter the number\n");
     scanf("%d",&n);
     for(factorial=1,count=1;count<=n;count++)
     {
