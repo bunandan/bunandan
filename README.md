@@ -6,8 +6,8 @@ I also completed a PG diploma in Embedded Systems in Bengaluru this was a 9-mont
 I worked on the 8051 Microcontroller board and ARM board. 
 I knew concepts like digital electronics, analog electronics, C programming, C++, Embedded C, and data structures and algorithms. 
 I did a project in my final year of engineering ie an IOT-based garbage monitoring system. 
-Anybody looking at my profile please give me one opportunity to showcase my skills in your company.
-                                                  THANKYOU
+
+THANKYOU
 
 
 
