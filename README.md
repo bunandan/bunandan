@@ -1,6 +1,6 @@
 Hi there 
 My name is Nandan BU 
-I am from Bengaluru I have studied BE in ECE from Adichunchanagiri Institute of Technology Chikkamagaluru I am a 2023 passout. 
+I am from Bengaluru I have studied BE in ECE  I am a 2023 passout. 
 I am currently looking for a job in embedded systems. 
 I also completed a PG diploma in Embedded Systems in Bengaluru this was a 9-month course.
 I worked on the 8051 Microcontroller board and ARM board. 
