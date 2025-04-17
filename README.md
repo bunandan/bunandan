@@ -1,5 +1,5 @@
 Hi there 
-Iam Nandan BU 
+I am Nandan BU 
 I am from Bengaluru I have studied BE in ECE.
 I worked on 8051 Microcontroller board and ARM board. 
 I knew concepts like digital electronics, analog electronics, C programming, C++, Embedded C, and data structures and algorithms. 
