@@ -1,9 +1,8 @@
 Hi there 
 I am Nandan BU 
-I am from Bengaluru I have studied BE in ECE.
-I worked on 8051 Microcontroller board and ARM board. 
-I knew concepts like digital electronics, analog electronics, C programming, C++, Embedded C, and data structures and algorithms. 
-I did a project in my final year of engineering ie an IOT-based garbage monitoring system. 
+I am from India, I have studied BE with the specialization of  Electronics and Communication Engineering, more passionate about Embedded System.
+I worked on 8051 Microcontroller board and ARM Cortex-M3(LPC1768MCU) board with the Keil Micro vision-4 application on Windows operating system. 
+I have learnt the concepts like digital electronics, analog electronics, C programming, C++, Embedded C, and Data Structures and Algorithms. 
 
 THANKYOU
 
